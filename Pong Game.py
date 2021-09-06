@@ -1,4 +1,4 @@
-import pygame, sys, random
+import pygame, random
 from pygame import mixer
 
 def ball_animation():
@@ -123,7 +123,6 @@ while True:
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
             pygame.quit()
-            sys.exit()
 
         if event.type == pygame.KEYDOWN:
             if event.key == pygame.K_UP:
