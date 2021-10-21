@@ -1,12 +1,6 @@
 # 44---Pong-Game-Final
 
-INSTALLATION
-------------
-
- * To play, double click on 'Pong Game.py' file.
-
- * A window will automatically pop up.
-
+A simple Pong game written in Python with background music written by me (https://bit.ly/BeatsForStreamersYouTube).
 
 CONTROLS
 --------
